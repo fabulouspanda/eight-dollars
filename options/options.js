@@ -53,7 +53,7 @@ function restoreOptions() {
       removeBlueVerification: false,
       textOptions: {
         verifiedLabel: "Verified",
-        twitterBlueLabel: "Paid",
+        twitterBlueLabel: "MAGA Fan",
         enableBorder: true,
       },
     },

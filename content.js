@@ -6,7 +6,7 @@ const defaultConfig = {
   removeBlueVerification: false,
   textOptions: {
     verifiedLabel: "Verified",
-    twitterBlueLabel: "Paid",
+    twitterBlueLabel: "MAGA Fan",
     enableBorder: true,
   },
 };
