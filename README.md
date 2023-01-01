@@ -1,4 +1,9 @@
-﻿# eight-dollars
+This is a modified version of the eight dollars browser extension which replaces the paid twitter blue logo with a MAGA hat
+
+![The extension in action](./assets/magaexample.png)
+
+
+# eight-dollars
 
 eight-dollars can help you tell the difference between actual verified accounts and twitter blue users. Just install the extension and see the difference.
 
