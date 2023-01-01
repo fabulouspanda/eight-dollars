@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Eight Dollar for a MAGA Hat",
+    "name": "Eight Dollars for a MAGA Hat",
     "version": "1",
     "description": "This extension shows paid twitter users as MAGA fans, and legacy verified users as verified",
     "icons": {
@@ -30,7 +30,7 @@
     ],
     "browser_action": {
         "default_icon": "./assets/32.png",
-        "default_title": "Eight-Dollars",
+        "default_title": "Eight-Dollars-For-A-MAGA-Hat",
         "default_popup": "options/options.html"
     }
 }
