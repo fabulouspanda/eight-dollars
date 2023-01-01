@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Identify the MAGA fans on Twitter",
+    "name": "Eight Dollar for a MAGA Hat",
     "version": "1",
     "description": "This extension shows paid twitter users as MAGA fans, and legacy verified users as verified",
     "icons": {
