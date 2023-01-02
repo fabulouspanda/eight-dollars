@@ -1,5 +1,9 @@
 This is a modified version of the eight dollars browser extension which replaces the paid twitter blue logo with a MAGA hat
 
+[Get it on the Chrome Web Store for Chrome or Brave](https://chrome.google.com/webstore/detail/kfjfoifgkmnalliggnfpjhnkgmklmoio)
+
+Pending review for Firefox
+
 ![The extension in action](./assets/magaexample.png)
 
 
