@@ -1,8 +1,8 @@
 This is a modified version of the eight dollars browser extension which replaces the paid twitter blue logo with a MAGA hat, so you can easily spot the paid supporters of Musk's platform for hate speech and disinformation
 
-[Get it on the Chrome Web Store for Chrome or Brave](https://chrome.google.com/webstore/detail/kfjfoifgkmnalliggnfpjhnkgmklmoio)
+[Add to Firefox at the Mozilla Add-ons Library](https://addons.mozilla.org/en-GB/firefox/addon/eight-dollar-for-a-maga-hat/)
 
-Pending review for Firefox
+[Get it on the Chrome Web Store for Chrome or Brave](https://chrome.google.com/webstore/detail/kfjfoifgkmnalliggnfpjhnkgmklmoio)
 
 ![The extension in action](./assets/magaexample.png)
 
