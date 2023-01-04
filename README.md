@@ -2,7 +2,7 @@ This is a modified version of the eight dollars browser extension which replaces
 
 [Add to Firefox at the Mozilla Add-ons Library](https://addons.mozilla.org/en-GB/firefox/addon/eight-dollar-for-a-maga-hat/)
 
-[Get it on the Chrome Web Store for Chrome or Brave](https://chrome.google.com/webstore/detail/kfjfoifgkmnalliggnfpjhnkgmklmoio)
+[Get it on the Chrome Web Store for Chrome, Edge or Brave](https://chrome.google.com/webstore/detail/kfjfoifgkmnalliggnfpjhnkgmklmoio)
 
 ![The extension in action](./assets/magaexample.png)
 
